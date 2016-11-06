@@ -1,0 +1,42 @@
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+
+     <EditTextPreference
+        android:inputType="text"
+        android:key="baseurl"
+        android:maxLines="1"
+        android:selectAllOnFocus="true"
+        android:singleLine="true"
+        android:title="@string/pref_baseurl" />
+
+       <EditTextPreference
+        android:inputType="text"
+        android:key="userid"
+        android:maxLines="1"
+        android:selectAllOnFocus="true"
+        android:singleLine="true"
+        android:title="@string/pref_userid" />
+    
+    
+    <EditTextPreference
+        android:inputType="textPassword"
+        android:key="password"
+        android:maxLines="1"
+        android:selectAllOnFocus="true"
+        android:singleLine="true"
+        android:title="@string/pref_password" />
+    
+    <ListPreference 
+        android:key="auto_load_hour"
+        android:entries="@array/pref_hours" 
+        android:title="@string/pref_hour" 
+        android:defaultValue="16"/>
+    
+    <Preference 
+        android:key="refresh_student_list" 
+        android:title="Indlæs elevliste fra intra"/>
+    <PreferenceScreen android:title="Navne på fag i skemaet">
+        <EditTextPreference android:title="MAT"/>
+        <EditTextPreference android:title="DAN"/>
+    </PreferenceScreen>
+ 
+</PreferenceScreen>

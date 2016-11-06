@@ -1,0 +1,1555 @@
+<resources>
+<string-array name="school_name">
+<item>Vestskolen</item>
+<item>10. Klasse Centret</item>
+<item>10ende</item>
+<item>10 i Campus</item>
+<item>Gentofte Kommunes Ungdomsskole</item>
+<item>10. klasse Gribskov</item>
+<item>10. klasse Campus Køge</item>
+<item>10. klasseskolen Øresund</item>
+<item>10. klasseskolen - Rønne</item>
+<item>10. KlasseCentret Vesthimmerland</item>
+<item>10. klasse Aabenraa</item>
+<item>Trekronerskolen - Fjerritslev</item>
+<item>Abildgårdskolen</item>
+<item>Absalons Skole</item>
+<item>Autisme Center Vestsjælland</item>
+<item>Ærø Efterskole</item>
+<item>Amager Fælled Skole</item>
+<item>Agedrup Skole</item>
+<item>Agerbæk Skole</item>
+<item>Agerskov Kristne Friskole</item>
+<item>Ahlmann-Skolen</item>
+<item>Albertslund Lille Skole</item>
+<item>Al Hikma Skolen</item>
+<item>Alkestrup Skolen</item>
+<item>Alkjærskolen</item>
+<item>Aller Friskole</item>
+<item>Allerslev Skole</item>
+<item>Allindelille Friskole</item>
+<item>Alme Kristne Friskole</item>
+<item>Alminde-Viuf Fællesskole</item>
+<item>Al Quds Skole</item>
+<item>Alslev Skole</item>
+<item>Amager Lille Skole</item>
+<item>Amager Privatskole</item>
+<item>Amagerskolen</item>
+<item>Andreasskolen</item>
+<item>Andst Skole</item>
+<item>Anna Trolles Skole</item>
+<item>Ansager Skole</item>
+<item>Ans Skole</item>
+<item>Antvorskov Skole</item>
+<item>Arden Skole</item>
+<item>Arenaskolen</item>
+<item>Arildsgård</item>
+<item>Arnborg Skole</item>
+<item>Asferg Skole</item>
+<item>As Friskole</item>
+<item>Askov-Malt Skole</item>
+<item>Assens Skole</item>
+<item>Assensskolen</item>
+<item>Assentoftskolen</item>
+<item>Kostskolen på Assersbølgård</item>
+<item>Astrup Skole</item>
+<item>Astrup undervisningssted</item>
+<item>Asaa Skole</item>
+<item>Atheneskolen - skolen for børn med særlige forudsætninger</item>
+<item>Augustenborg Skole</item>
+<item>Aulum Byskole</item>
+<item>Auning Skole</item>
+<item>Avedøre Skole</item>
+<item>Bækholmskolen</item>
+<item>Bækkegårdsskolen</item>
+<item>Bække Skole</item>
+<item>Baggesenskolen</item>
+<item>Bagsværd Gymnasiums Grundskole</item>
+<item>Bagterpskolen</item>
+<item>Bakkeskolen - Bagsværd</item>
+<item>Bakkegårdsskolen - Gentofte</item>
+<item>Bakkegårdsskolen - Trige</item>
+<item>Bakkehusene</item>
+<item>Bakkeskolen - Esbjerg</item>
+<item>Bakkeskolen - Hørning</item>
+<item>Bakkeskolen - Horsens</item>
+<item>Bakkevejens Skole</item>
+<item>Balle Friskole, Balle Musik og Idrætsefterskole</item>
+<item>Pædagogisk Center - Ballerup</item>
+<item>Ballerup Ny Skole</item>
+<item>Ballerup Privatskole</item>
+<item>Balleskolen</item>
+<item>Balsmoseskolen</item>
+<item>Bangsbostrand Skole</item>
+<item>Bankagerskolen</item>
+<item>Barrit Skole</item>
+<item>Baunegård</item>
+<item>Baunehøjskolen</item>
+<item>Bavnehøj Skole</item>
+<item>Bavnebakkeskolen</item>
+<item>Bavnehøjskolen</item>
+<item>Bregninge-Bjergsted Friskole</item>
+<item>Beder Skole</item>
+<item>Bedsted Skole</item>
+<item>Karlsvognen</item>
+<item>Bellahøj Skole</item>
+<item>Bernadotteskolen</item>
+<item>Biersted Skole</item>
+<item>Børneskolen Bifrost</item>
+<item>Billesborgskolen</item>
+<item>Billum Skole</item>
+<item>Billums Privatskole</item>
+<item>BillundSkolen</item>
+<item>Bindslev undervisningssted</item>
+<item>Birkelundskolen</item>
+<item>Birkerød Privatskole</item>
+<item>Birkerød Skole</item>
+<item>Birkhovedskolen</item>
+<item>Bjørns Internationale Skole</item>
+<item>Bislev Skole</item>
+<item>Efterskolen DUI Leg og Virke Bisnapgård</item>
+<item>Bistrupskolen</item>
+<item>Bjedstrup Skole</item>
+<item>Bjergby undervisningssted</item>
+<item>Bjørnehøjskolen</item>
+<item>Blære Skole</item>
+<item>Blågård Skole</item>
+<item>Blicherskolen</item>
+<item>Blidstrup Efterskole</item>
+<item>Blovstrød Skole</item>
+<item>Blåvandshuk Skole</item>
+<item>Blåkilde Efterskole</item>
+<item>Bøgeskovskolen</item>
+<item>Boesagerskolen</item>
+<item>Boeslunde Skole</item>
+<item>Bogense Skole</item>
+<item>Bolderslev Skole</item>
+<item>Boldesager Skole</item>
+<item>Borbjerg Skole</item>
+<item>Bordings Friskole</item>
+<item>Bording Skole</item>
+<item>Sorø Borgerskole</item>
+<item>Borgerskolen</item>
+<item>Bork Skole</item>
+<item>Børneuniversitetet på Vesterbro</item>
+<item>Borris Skole</item>
+<item>Borup Privatskole</item>
+<item>Borup Ris Skolen</item>
+<item>Borup Skole</item>
+<item>Brædstrup Skole</item>
+<item>Brændgårdskolen</item>
+<item>Brahetrolleborg Skole</item>
+<item>Bramdrup Skole</item>
+<item>Bramsnæsvigskolen</item>
+<item>Branderup Friskole</item>
+<item>Brattingsborgskolen</item>
+<item>Bredagerskolen</item>
+<item>Bredsten - Gadbjerg Skole</item>
+<item>Brejning Efterskole</item>
+<item>Bremdal Skole</item>
+<item>Brenderup og Omegns Realskole</item>
+<item>Breum Skole</item>
+<item>Brønshøj Skole</item>
+<item>Brændkjærskolen</item>
+<item>Broager Skole</item>
+<item>Brobyskolerne</item>
+<item>Brøndagerskolen, Helhedstilbudet</item>
+<item>Brønderslev Heldagsskole</item>
+<item>Brøruphus Efterskole</item>
+<item>Brøndbyøster Skole</item>
+<item>Brøndby Strand Skole</item>
+<item>Brøndbyvester Skole</item>
+<item>Brorsonskolen</item>
+<item>Broskolen - Korsør</item>
+<item>Broskolen - Ferritslev</item>
+<item>Brovandeskolen, Den Lille Skole i Skagen</item>
+<item>Brovst Skole</item>
+<item>Brylle Skole</item>
+<item>Bryndum Skole</item>
+<item>Brårup Skole</item>
+<item>Buddinge Skole</item>
+<item>Buerup Skole</item>
+<item>Bugtskolen</item>
+<item>Buskelundskolen</item>
+<item>Busses Skole</item>
+<item>Byens Skole</item>
+<item>Byhaveskolen</item>
+<item>Bylderup Skole</item>
+<item>Bymarkskolen</item>
+<item>Byplanvejens Skole</item>
+<item>Byskovskolen</item>
+<item>Byvangskolen</item>
+<item>Båring Skole</item>
+<item>Carl Nielsen-Skolen</item>
+<item>Carolineskolen</item>
+<item>Center-10, Aarhus High School</item>
+<item>Skolen i Charlottegården</item>
+<item>Charlotteskolen</item>
+<item>Christianshavns Skole</item>
+<item>Christiansfeld Skole</item>
+<item>Copenhagen City School</item>
+<item>Dagmarskolen</item>
+<item>Dagnæsskolen</item>
+<item>Dalby Skole</item>
+<item>Dalgas/Blåhøj Skole</item>
+<item>0</item>
+<item>Dalumskolen</item>
+<item>Damagerskolen</item>
+<item>Danehofskolen</item>
+<item>Danmarksgades Skole</item>
+<item>Dannevirke Kostskole</item>
+<item>Dansborgskolen</item>
+<item>Darum Skole</item>
+<item>Daugård Skole</item>
+<item>Den Classenske Legatskole</item>
+<item>Den Lille Skole</item>
+<item>Den Nye Friskole</item>
+<item>DIA Privatskole</item>
+<item>Vestre Skole - Grenaa</item>
+<item>Christianshavns Døttreskole</item>
+<item>St. Magleby Skole</item>
+<item>Dragør Skole</item>
+<item>Dreslette Skole</item>
+<item>Dronninggårdskolen</item>
+<item>Dronninglund Skole</item>
+<item>Druestrup Friskole</item>
+<item>Løgumkloster Distriktsskole</item>
+<item>Skærbæk Distriktsskole</item>
+<item>Tønder Distriktsskole</item>
+<item>Toftlund Distriktsskole</item>
+<item>Dueholmskolen</item>
+<item>Skolen på Duevej</item>
+<item>Durup Skole</item>
+<item>Dybbøl-Skolen</item>
+<item>Dybkærskolen</item>
+<item>Dybkær Specialskole</item>
+<item>Dyhrs Skole</item>
+<item>Dyssegårdsskolen</item>
+<item>Dyvekeskolen</item>
+<item>Dåstrup Skole</item>
+<item>Ebberup Skole</item>
+<item>Ebeltoft Skole</item>
+<item>Ejer Bavnehøjskolen</item>
+<item>Efterskolen Helle</item>
+<item>Egebækskolen</item>
+<item>Egebakken</item>
+<item>Egebakkeskolen</item>
+<item>Egebjergskolen</item>
+<item>Egekratskolen</item>
+<item>Egelundskolen</item>
+<item>Friskolen Øster Egesborg</item>
+<item>Egeskolen</item>
+<item>Egeskovskolen</item>
+<item>Eggeslevmagle Skole</item>
+<item>Egholmskolen</item>
+<item>Egtved Skole</item>
+<item>Eisbjerghus Internationale Efterskole</item>
+<item>Ejby Skole - Ejby</item>
+<item>Ejby Skole - Ll. Skensved</item>
+<item>Ejerslykkeskolen</item>
+<item>Ejsing Friskole</item>
+<item>Ejstrupholm Skole</item>
+<item>Elbæk Efterskole</item>
+<item>Elev Skole</item>
+<item>Ellebækskolen</item>
+<item>Ellebjerg Skole</item>
+<item>Ellekærskolen</item>
+<item>Ellekildeskolen</item>
+<item>Ellemarkskolen</item>
+<item>Ellevangskolen</item>
+<item>Ellidshøj Skole</item>
+<item>Elling Skole</item>
+<item>Elsted Skole</item>
+<item>Eltang Skole og Børnehave</item>
+<item>Elverdamsskolen</item>
+<item>Endrupskolen</item>
+<item>Engbjergskolen</item>
+<item>Engdalskolen</item>
+<item>Engelsborgskolen</item>
+<item>Engesvang Skole</item>
+<item>Enghavegård Skole</item>
+<item>Enghaveskolen</item>
+<item>Engholmskolen</item>
+<item>Englystskolen</item>
+<item>Engskolen</item>
+<item>Engskovskolen</item>
+<item>Engum Skole</item>
+<item>Erritsø Fællesskole</item>
+<item>Esajasskolen</item>
+<item>Esbjerg Realskole</item>
+<item>Esbjerg Ungdomsskole</item>
+<item>Eskilstrup Skole</item>
+<item>Espe Skole</item>
+<item>Elise Smiths Skole</item>
+<item>Fællesskolen HoptrupMarstrupVilstrup</item>
+<item>Falkenborgskolen</item>
+<item>Farsø Skole</item>
+<item>Farstrup Skole</item>
+<item>Faster Skole</item>
+<item>Frederik Barfods Skole</item>
+<item>Feldborg Centralskole</item>
+<item>Felsted Centralskole</item>
+<item>Femmøller Efterskole</item>
+<item>Fensmarkskolen</item>
+<item>Ferritslev Friskole</item>
+<item>Ferslev Skole - Svenstrup</item>
+<item>Ferslev Skole - Skibby</item>
+<item>Fårevejle Fri-  og Efterskole</item>
+<item>Fællesskolen Hammelev-Sct. Severin</item>
+<item>Filipskolen Ålborg</item>
+<item>Filstedvejens Skole</item>
+<item>Finderuphøj Skole</item>
+<item>Firehøjeskolen</item>
+<item>Firhøjskolen</item>
+<item>Firkløverskolen - Randers</item>
+<item>Firkløverskolen - Give</item>
+<item>Firkløverskolen - Lejre</item>
+<item>Fjelsted Harndrup Skole</item>
+<item>Fjelstervang Skole</item>
+<item>Fjerritslev Skole</item>
+<item>Fjordbakkeskolen</item>
+<item>N.J. Fjordsgades Skole</item>
+<item>Fjordskolen - Byskoleafdelingen</item>
+<item>Fjordskolen - Nykøbing Falster</item>
+<item>Fjordskolen - Aabenraa</item>
+<item>Fladsåskolen</item>
+<item>Fløng Skole</item>
+<item>Tangsø skole</item>
+<item>Efterskolen Flyvesandet</item>
+<item>Faaborg-Midtfyn Ungdomsskole</item>
+<item>Forældreskolen i Aarhus</item>
+<item>Forberedelsesskolen</item>
+<item>Skanderup-Hjarup Forbundsskole</item>
+<item>Forlev Friskole</item>
+<item>Fourfeldtskolen</item>
+<item>Frederikssund Private Realskole</item>
+<item>Skolen på La Cours Vej</item>
+<item>Lindevangskolen</item>
+<item>Ny Hollænderskolen</item>
+<item>Skolen på Nyelandsvej</item>
+<item>Frederiksberg Skole</item>
+<item>Fredericia Realskole</item>
+<item>Fredensborg Skole</item>
+<item>Kirstinebjergskolen, distriktskontoret</item>
+<item>Fredericia Friskole</item>
+<item>Fredericiaskolen</item>
+<item>Frederiksberg Friskole</item>
+<item>Frederiksberg Ny Skole</item>
+<item>Frederiksborg Byskole</item>
+<item>Frederiks Skole</item>
+<item>Frederiksværk Skole</item>
+<item>Frejaskolen</item>
+<item>Frejlev Skole</item>
+<item>Frederiksgård Skole</item>
+<item>Frijsendal Friskole</item>
+<item>Frisholm Skole</item>
+<item>Friskolen i Bramming</item>
+<item>Friskolen City Odense</item>
+<item>Friskolen i Hinnerup</item>
+<item>Friskolen i Jordløse</item>
+<item>Friskolen Østerlars</item>
+<item>Friskolen - Østerlund</item>
+<item>Friskolen i Viborg</item>
+<item>Frydenhøjskolen</item>
+<item>Frydenstrandskolen</item>
+<item>Fryndesholm skole</item>
+<item>Fællesskolen Starup-Øsby</item>
+<item>Fuglsanggårdsskolen</item>
+<item>Fursund Skole</item>
+<item>Fynslundskolen</item>
+<item>Enghaveskolen - Faaborg Friskole</item>
+<item>Faaborg Sundskole</item>
+<item>Fårup Skole</item>
+<item>Fårvang Skole</item>
+<item>Gadehaveskolen</item>
+<item>Gadstrup Skole</item>
+<item>Gærum Skole</item>
+<item>Galten Friskole</item>
+<item>Gammelgaardskolen</item>
+<item>Gl Hasseris Skole</item>
+<item>Gandrup Skole</item>
+<item>Ganløse Skole</item>
+<item>Gasværksvejens Skole</item>
+<item>Gjerrild Bønnerup Friskole</item>
+<item>Gedebjerg Skole</item>
+<item>Gedsted Skole</item>
+<item>Gedved Skole</item>
+<item>Gelsted Skole</item>
+<item>Genner Univers</item>
+<item>Gentofte Skole</item>
+<item>Gerbrandskolen</item>
+<item>Gesten Børnecenter</item>
+<item>Glamsbjerg Fri-og Efterskole</item>
+<item>Gilbjergskolen</item>
+<item>Gildbroskolen</item>
+<item>Gimsing Skole</item>
+<item>Gislev Friskole</item>
+<item>Gistrup Skole</item>
+<item>Gjellerupskolen</item>
+<item>Gjerlev-Enslev Skole</item>
+<item>Gjern Skole</item>
+<item>Gjessø Skole</item>
+<item>Gjøl Skole</item>
+<item>Gladsaxe Privatskole</item>
+<item>Gladsaxe Skole</item>
+<item>Glamsbjergskolen</item>
+<item>Glejbjerg Børne- og Skolecenter</item>
+<item>Glesborg Skole</item>
+<item>Gamle Hjortespringskole</item>
+<item>Gl Lindholm Skole</item>
+<item>Glostrup Skole</item>
+<item>Gl Rye Skole</item>
+<item>Gludsted Friskole</item>
+<item>Glyngøre Skole</item>
+<item>Gødvad Efterskole</item>
+<item>Gødvadskolen</item>
+<item>Gørding Skole</item>
+<item>Gørlev Skole</item>
+<item>Græse Bakkebyskolen</item>
+<item>Gram Efterskole</item>
+<item>Grantofteskolen</item>
+<item>Grauballe Skole</item>
+<item>Gredstedbro Skole</item>
+<item>Grejsdal Skole</item>
+<item>Grejs Friskole</item>
+<item>Greve Privatskole</item>
+<item>Gribskolen</item>
+<item>Grindsted Privatskole</item>
+<item>Grindsted Skole</item>
+<item>Grønnemose Skole</item>
+<item>Grønhøjskolen</item>
+<item>Grønnevang skole</item>
+<item>Grønvangskolen</item>
+<item>Grupperne - en folkeskole med særlig profil</item>
+<item>Gråsten Friskole</item>
+<item>Gråsten Skole</item>
+<item>Gudenåskolen</item>
+<item>Gudumholm Skole</item>
+<item>Gudenådalens Friskole</item>
+<item>Gug Skole</item>
+<item>Guldbæk Friskole</item>
+<item>Guldberg Skole</item>
+<item>Gullestrup Skole</item>
+<item>Gummerup Skole</item>
+<item>Gungehusskolen</item>
+<item>Grøndalsvængets Skole</item>
+<item>Gyldenstenskolen</item>
+<item>Gylling Skole og Børnehus</item>
+<item>Gyvelhøjskolen</item>
+<item>Gårslev Skole</item>
+<item>Gåsetårnskolen</item>
+<item>Hald Ege Skole</item>
+<item>Hadbjerg Skole</item>
+<item>Haderslev Kristne Friskole</item>
+<item>Haderslev Realskole</item>
+<item>Haderslev Ungdomsskole</item>
+<item>Haderup Skole</item>
+<item>Hadsten Skole</item>
+<item>Hadsund Skole</item>
+<item>Hadsundvejens Skole</item>
+<item>Hældagerskolen</item>
+<item>Hærvejsskolen</item>
+<item>Hald Ege Efterskole</item>
+<item>Haldum-Hinnerup Skolen</item>
+<item>Halgård Skole og SFH</item>
+<item>Hals Skole</item>
+<item>Halstedhus Efterskole</item>
+<item>Hammerum Friskole</item>
+<item>Hammershøj Skole</item>
+<item>Hammerum Skole</item>
+<item>Hampelandskolen</item>
+<item>Hanebjerg Skole</item>
+<item>Hannæsskolen</item>
+<item>HANSENBERG, 10. klasse</item>
+<item>Hanssted Skole</item>
+<item>Hanstholm Skole</item>
+<item>Harboøre Skole</item>
+<item>Hareskovens Lilleskole</item>
+<item>Hareskov Skole</item>
+<item>Harte Skole</item>
+<item>Hashøjskolen</item>
+<item>Hasle Skole</item>
+<item>Haslev Privatskole</item>
+<item>Hastrupskolen</item>
+<item>Hattingskolen</item>
+<item>Havbakkeskolen</item>
+<item>Havdrup Skole</item>
+<item>Haverslev-Ravnkilde Skole</item>
+<item>Havndal Skole</item>
+<item>Havrebjerg Heldagsskole</item>
+<item>Havregården Lille-Kost og Dagskole</item>
+<item>Havrehedskolen</item>
+<item>H. C. Andersen Skolen</item>
+<item>Hedegårdenes Skole</item>
+<item>Hedegårdsskolen</item>
+<item>Hedehusene Skole</item>
+<item>Hedelyskolen</item>
+<item>Hedemølle Efterskole</item>
+<item>Hedensted Skole</item>
+<item>Fjordskolen, Hedevang</item>
+<item>Ungdomsskolen Hedensted</item>
+<item>Hee Skole</item>
+<item>Heibergskolen</item>
+<item>Hejnsvig Skole</item>
+<item>Halsnæs Heldagsskole</item>
+<item>Heldagsskolen i Frederikshavn</item>
+<item>Heldagsskolen Bråby</item>
+<item>Heldagsskolen Fuglsanggård</item>
+<item>Natur- og Helhedsskolen Billesbølle</item>
+<item>Hellebækskolen</item>
+<item>Hellerup Skole</item>
+<item>Hellested Friskole</item>
+<item>Hellevad Børneunivers</item>
+<item>Helms Skole</item>
+<item>Helsinge Realskole</item>
+<item>Helsingør Skole</item>
+<item>Hem Skole</item>
+<item>Herfølge Skole</item>
+<item>Herlev byskole</item>
+<item>Herlev Privatskole</item>
+<item>Herlufmagle Skole</item>
+<item>Herning Friskole</item>
+<item>Herningsholmskolen</item>
+<item>Herningvej Skole</item>
+<item>Skolen på Herredsåsen</item>
+<item>Herskindskolen</item>
+<item>Herstedlund Skole</item>
+<item>Den Fri Hestehaveskole</item>
+<item>Hestlund Efterskole</item>
+<item>Henriette Hørlucks Skole</item>
+<item>Hillerød Lille Skole</item>
+<item>Hillerødsholmskolen</item>
+<item>Hillerød Vest Skolen</item>
+<item>Hillerslev Skole</item>
+<item>Himmelbjergegnens Natur- og Idrætsefterskole</item>
+<item>Himmelev Skole</item>
+<item>Hindholm Privatskole</item>
+<item>Hindsholmskolen</item>
+<item>Hirtshals skole</item>
+<item>Haslev Idrætsefterskole</item>
+<item>Hjallerup Skole</item>
+<item>Hjalleseskolen</item>
+<item>Hjemly Friskole</item>
+<item>Hjerm Skole</item>
+<item>Hjerting Skole</item>
+<item>Hjordkær Skole</item>
+<item>Hjortholm Kostskole</item>
+<item>Høje Kolstrup Skole</item>
+<item>Holstebro Kommunale Ungdomsskole</item>
+<item>Holbæk Lille Skole</item>
+<item>Hørsholm Lille Skole</item>
+<item>Hjørring Ny 10.</item>
+<item>Houlkærskolen</item>
+<item>Hobro Efterskole</item>
+<item>Hobro Søndre Skole</item>
+<item>Hobrovejens Skole</item>
+<item>Hodsager Skole</item>
+<item>Højagerskolen</item>
+<item>Højbo Friskole</item>
+<item>Højboskolen</item>
+<item>Højby Friskole</item>
+<item>Højby Skole</item>
+<item>Højelse Skole</item>
+<item>Højene Skole</item>
+<item>Højen Skole</item>
+<item>Højgårdskolen</item>
+<item>Højmarkskolen</item>
+<item>Højslev Skole</item>
+<item>Højvangskolen - Horsens</item>
+<item>Højvangskolen - Svenstrup</item>
+<item>Højvangskolen - Aarhus</item>
+<item>Høng Skole</item>
+<item>Høng Privatskole</item>
+<item>Hørby-Dybvad Skole</item>
+<item>Hørup Centralskole</item>
+<item>Høsterkøb Skole</item>
+<item>Højmeskolen</item>
+<item>Holbæk Private Realskole</item>
+<item>Holbergskolen - Kbh. NV</item>
+<item>Holbergskolen - Dianalund</item>
+<item>Søndre Skole - Holeby</item>
+<item>Holluf Pile Skole</item>
+<item>Holmeagerskolen</item>
+<item>Holmebækskolen</item>
+<item>Holmegårdskolen - Hjørring</item>
+<item>Holmegårdsskolen - Hvidovre</item>
+<item>Holme Skole</item>
+<item>Holmsland Skole</item>
+<item>Holstebro Friskole</item>
+<item>Holsted Skole</item>
+<item>Holtbjergskolen</item>
+<item>Hornbæk Skole - Randers</item>
+<item>Hornbæk Skole - Hornbæk</item>
+<item>Horne Skole</item>
+<item>Horne Tistrup Skolerne</item>
+<item>Hornslet Skole</item>
+<item>Hornsyld Skole</item>
+<item>Hornum Skole</item>
+<item>Horsens Byskole</item>
+<item>Skolen Bolig 32, Børne og Ungdomspsykiatrisk Center</item>
+<item>Hospitalsundervisningen, Børne- og Ungdomspsykiatrisk Afdeling</item>
+<item>Hotherskolen</item>
+<item>Hou Skole - Hals</item>
+<item>Hovedgård Skole</item>
+<item>Hou Skole - Odder</item>
+<item>Hovslund Børneunivers</item>
+<item>Hjørring Private Realskole</item>
+<item>Hulvej Skole</item>
+<item>Humble Skole</item>
+<item>Humlehøj-Skolen</item>
+<item>Humlum Skole</item>
+<item>Hummeltofteskolen</item>
+<item>Hunderupskolen</item>
+<item>Hundested Skole</item>
+<item>Hundige Lille Skole</item>
+<item>Hundslund Centralskole</item>
+<item>Husum Skole</item>
+<item>Hvalsø Skole</item>
+<item>Hvidebækskolen</item>
+<item>Hvide Sande Skole</item>
+<item>Hvilebjergskolen</item>
+<item>Hvinningdalskolen</item>
+<item>Højdevangens Skole</item>
+<item>Hyldgårdsskolen</item>
+<item>Hyllehøjskolen</item>
+<item>Hyllinge Skole</item>
+<item>Hyltebjerg Skole</item>
+<item>Haahrs Skole</item>
+<item>Hårby Skole</item>
+<item>Ida Holsts Skole</item>
+<item>Idestrup Privatskole</item>
+<item>Idom-Råsted Skole</item>
+<item>Ingrid Jespersens Gymnasieskole</item>
+<item>Ikast-Brande Ungdomscenter</item>
+<item>Ikast Nordre Skole</item>
+<item>Ikast Østre Skole</item>
+<item>Ikast Vestre Skole</item>
+<item>Ilskov Skole</item>
+<item>Interskolen</item>
+<item>Isbryderen</item>
+<item>Isefjordskolen</item>
+<item>Isenvad Skole</item>
+<item>Ishøj Skole</item>
+<item>Idrætsskolerne Ikast</item>
+<item>Jakobskolen</item>
+<item>Janderup Skole</item>
+<item>Jebjerg Skole</item>
+<item>Jelling Friskole</item>
+<item>Jels Skole</item>
+<item>Jersie Privatskole</item>
+<item>Øster Jølby Skole</item>
+<item>Johannesskolen</item>
+<item>Jægerspris skole</item>
+<item>Juelsminde Skole</item>
+<item>Jyllinge Skole</item>
+<item>Kærbyskolen</item>
+<item>Kalbyrisskolen</item>
+<item>Kalundborg Friskole</item>
+<item>Kaløvigskolen</item>
+<item>Karensmindeskolen</item>
+<item>Karlskov Friskole</item>
+<item>Karlslunde Skole</item>
+<item>Karrebæk Skole</item>
+<item>Karup Skole</item>
+<item>Kasperskolerne</item>
+<item>Kathøj</item>
+<item>Katrinebjergskolen</item>
+<item>Katrinedals Skole</item>
+<item>Kattegatskolen</item>
+<item>Køge Bugt Privatskole</item>
+<item>Kompetencecenter Kalvehave</item>
+<item>Kerteminde Byskole</item>
+<item>Kertemindeegnens Friskole</item>
+<item>Kastrupgårdsskolen</item>
+<item>Kibæk Skole</item>
+<item>Københavns Idrætsefterskole</item>
+<item>Kildebakkeskolen</item>
+<item>Kildegård Privatskole</item>
+<item>Kildegårdskolen</item>
+<item>Kildeskolen</item>
+<item>Kildevældsskolen</item>
+<item>Kildevangens Skole</item>
+<item>Kingoskolen</item>
+<item>Kirsebærhavens Skole</item>
+<item>Kirkebækskolen</item>
+<item>Kirkebakkeskolen</item>
+<item>Kirkebjerg Skole</item>
+<item>Kirke-Helsinge Skole</item>
+<item>Dagskolen Kirkemosegård</item>
+<item>Kirkeskolen</item>
+<item>Kirkeskovsskolen</item>
+<item>Kirke Saaby Skole</item>
+<item>Kirstinedalsskolen</item>
+<item>Kjellerup Skole</item>
+<item>Klarup Skole</item>
+<item>Idrætsefterskolen Klintsøgaard</item>
+<item>Kliplev Skole</item>
+<item>Klippen. Den Kristne Friskole</item>
+<item>Køge Lille Skole</item>
+<item>10. ved Kløften</item>
+<item>Klokkerholm Skole</item>
+<item>Klostermarken Skole</item>
+<item>Klostermarksskolen - Aalborg</item>
+<item>Klostermarksskolen - Roskilde</item>
+<item>Klovborg Friskole</item>
+<item>Kløver-Skolen</item>
+<item>Knudsøskolen</item>
+<item>Korsvejens Skole</item>
+<item>N. Kochs Skole</item>
+<item>Kølkær Skole</item>
+<item>Kokkedal Skole</item>
+<item>Koldby Skole</item>
+<item>Kolding Friskole</item>
+<item>Kolind Centralskole</item>
+<item>Kollegievejens Skole</item>
+<item>Kollerup Skole</item>
+<item>Kollund Skole</item>
+<item>Kongehøjskolen</item>
+<item>Kongerslev Skole</item>
+<item>Kongevejens Skole</item>
+<item>Kongevejsskolen</item>
+<item>Kongsbjergskolen</item>
+<item>Korning Skole</item>
+<item>Kornmarkskolen</item>
+<item>Korsager Skole</item>
+<item>Korshøjskolen</item>
+<item>Korsholm Skole</item>
+<item>Korskildeskolen</item>
+<item>Korup Skole</item>
+<item>Kostskolen i Sønderjylland</item>
+<item>Krabbeshus Heldagsskole</item>
+<item>Kragelund Efterskole</item>
+<item>Kragelundskolen</item>
+<item>Kratholmskolen</item>
+<item>Krebs Skole</item>
+<item>Kirke Hyllinge Skole</item>
+<item>Kristofferskolen</item>
+<item>Kristrup Skole</item>
+<item>Kroggårdsskolen</item>
+<item>Krogårdskolen</item>
+<item>S/I NyKrumsø Skole og Socialpædagogiske Opholdssted</item>
+<item>Kulsbjerg Skole</item>
+<item>Kvaglundskolen</item>
+<item>Kvikmarkens Privatskole</item>
+<item>Kvong Friskole</item>
+<item>Kystskolen</item>
+<item>C. la Cours Skole</item>
+<item>Ladegårdsskolen</item>
+<item>Lærkeskolen</item>
+<item>Læsø Skole</item>
+<item>Landsbyskolen</item>
+<item>Landsgrav Friskole</item>
+<item>Langagerskolen</item>
+<item>Langebjergskolen</item>
+<item>Langelinieskolen</item>
+<item>Langhøjskolen - Hvidovre</item>
+<item>Langhøjskolen - Vivild Børneby</item>
+<item>Langhøjskolen - Struer</item>
+<item>Langholt Skole</item>
+<item>Langskov Skole</item>
+<item>Langsøskolen</item>
+<item>Langå Skole</item>
+<item>Lellinge Skole</item>
+<item>Lem Stationsskole</item>
+<item>Løjtegårdsskolen</item>
+<item>Lillebæltskolen</item>
+<item>Lille Egede Friskole</item>
+<item>Lille Næstved Skole</item>
+<item>Lillerød Skole</item>
+<item>Helsingør Lille Skole</item>
+<item>Lilleskolen i Odense</item>
+<item>Lille Værløse Skole</item>
+<item>Lilleåskolen</item>
+<item>Lindebjergskolen</item>
+<item>Lindegårdskolen</item>
+<item>Erslev Skole</item>
+<item>Lindegårdsskolen</item>
+<item>Lindehøjskolen</item>
+<item>Lindeskovskolen</item>
+<item>Lind Skole</item>
+<item>Lindved Skole</item>
+<item>LINIE10</item>
+<item>Lintrup Børnecenter</item>
+<item>Lisbjergskolen</item>
+<item>Løgstrup Skole</item>
+<item>Løkken undervisningssted</item>
+<item>Lørslev Friskole</item>
+<item>Løsning Skole</item>
+<item>Løve-Ørslev Skole</item>
+<item>Løvvangskolen</item>
+<item>Løjt Kirkeby Skole</item>
+<item>Lomborg Gymnastik- og Idrætsefterskole</item>
+<item>Lergravsparkens Skole</item>
+<item>Læssøesgades Skole</item>
+<item>Lyngby-Tårbæk Ungdomsskole</item>
+<item>Lumby Skole</item>
+<item>Lundagerskolen</item>
+<item>Lundebakkeskolen</item>
+<item>Lundebjergskolen</item>
+<item>Lundehusskolen</item>
+<item>Lundergårdskolen</item>
+<item>Lunderskov Efterskole</item>
+<item>Lundskolen</item>
+<item>Lundtofte Skole</item>
+<item>Lygten Skole</item>
+<item>Lykkebo Skole</item>
+<item>Lykkegårdskolen</item>
+<item>Lykkesgårdskolen</item>
+<item>Lykke Skolen</item>
+<item>Lyngbjerggårdskolen</item>
+<item>Lyngby Friskole</item>
+<item>Lynge Skole</item>
+<item>Lynghøjskolen</item>
+<item>Lyngholmskolen</item>
+<item>Lysabild Skole</item>
+<item>Lyshøjskolen</item>
+<item>Fjordskolen, Lysholm</item>
+<item>Heltidsundervisningen Holbæk</item>
+<item>Lystrup Skole</item>
+<item>Låsby Skole</item>
+<item>Maglebjergskolen</item>
+<item>Maglegårdsskolen</item>
+<item>Maglehøjskolen</item>
+<item>Behandlingshjemmet Magnoliegaarden</item>
+<item>Malling Skole</item>
+<item>Marbækskolen</item>
+<item>Margrethelyst Friskole</item>
+<item>Margretheskolen</item>
+<item>Mariager Skole</item>
+<item>Maribo Skole</item>
+<item>Marie Jørgensens Skole</item>
+<item>Mariendal Friskole</item>
+<item>Marienhoffskolen</item>
+<item>Marienlystskolen</item>
+<item>Marievangsskolen</item>
+<item>Markusskolen</item>
+<item>Marslev Skole og Børnehus</item>
+<item>Marstal Skole</item>
+<item>M.C. Holms Skole</item>
+<item>Mejlby Efterskole</item>
+<item>Mejrup Skole</item>
+<item>Mellerup Friskole</item>
+<item>Mellervangskolen</item>
+<item>Mentiqa-Nordjylland</item>
+<item>Mariagerfjord 10. klassecenter</item>
+<item>Mariagerfjord Idrætsskole</item>
+<item>Middelfart Friskole</item>
+<item>Midtskolen</item>
+<item>Midtjyllands Kristne Friskole</item>
+<item>Marie Kruses Skole</item>
+<item>Marie Mørks Skole</item>
+<item>Møldrup Skole</item>
+<item>Mølholm Skole</item>
+<item>Møllebakkeskolen</item>
+<item>Møllehøjskolen</item>
+<item>Mølleholmskolen</item>
+<item>Mølleskolen - Grenaa</item>
+<item>Mølleskolen - Ry</item>
+<item>Møllevangskolen</item>
+<item>Møn Friskole</item>
+<item>Mønsted Skole</item>
+<item>Mørke Skole</item>
+<item>Molsskolen</item>
+<item>Moltrup Skole</item>
+<item>Mørkhøj Skole</item>
+<item>Mosedeskolen</item>
+<item>Mejls-Orten-Tinghøj Friskole</item>
+<item>Mou Skole</item>
+<item>Midtsjællands Efterskole</item>
+<item>Muldbjergskolen</item>
+<item>Munkebjergskolen</item>
+<item>Munkebo Skole - mellem nor og fjord</item>
+<item>Munkegårdsskolen</item>
+<item>Munkekærskolen</item>
+<item>Munkevængets Skole</item>
+<item>Munkholmskolen</item>
+<item>Måløv Skole</item>
+<item>Mårslet Skole</item>
+<item>Nærum Privatskole</item>
+<item>Nærum Skole</item>
+<item>Næsbjerg Skole</item>
+<item>Næsby Skole</item>
+<item>Næshøjskolen</item>
+<item>Niels Ebbesen Skolen</item>
+<item>Nørre Fælled Skole</item>
+<item>Nordregårdsskolen</item>
+<item>Nibe Skole</item>
+<item>Nim Skole og Børnehus</item>
+<item>Nørre Nissum Efterskole</item>
+<item>Nordre Skole - Viborg</item>
+<item>Nørholm Skole</item>
+<item>NOVAskolen</item>
+<item>Nørrevangsskolen</item>
+<item>Nøvling Skole - Vildbjerg</item>
+<item>Nøvling Skole - Gistrup</item>
+<item>Nøvlingskov Efterskole</item>
+<item>Nordagerskolen</item>
+<item>Nordals skolen</item>
+<item>Nordby Skole</item>
+<item>Nordbyskolen</item>
+<item>Nordenskov Skole</item>
+<item>Nordfyns Efterskole</item>
+<item>Nordgårdsskolen</item>
+<item>Nordre Skole - Bramming</item>
+<item>Nordskolen - Højby</item>
+<item>Nordskolen - afdeling Højby</item>
+<item>Nordstjerneskolen - Helsinge</item>
+<item>Dragør Skole Nord</item>
+<item>Nordvestskolen, Ravnsborg afdeling</item>
+<item>Nordvestskolen, Stormark afdeling</item>
+<item>Nørhalne Skole</item>
+<item>Nr Alslev Skole</item>
+<item>Nørrebjergskolen</item>
+<item>Blåbjergskolen, Lunde-Kvong afdeling</item>
+<item>Nørreskov-Skolen</item>
+<item>Nr Vedby Centralskole</item>
+<item>Nors Skole</item>
+<item>Nørrebro Park Skole</item>
+<item>Nr. Asmindrup Skole - og Videnscenter</item>
+<item>Nr Felding skole</item>
+<item>Nr Lyndelse Friskole</item>
+<item>Nr. Søby Skole</item>
+<item>Nr Uttrup Skole</item>
+<item>Nørre-Snede Skole</item>
+<item>Nyager Skole</item>
+<item>Nyboder Skole</item>
+<item>Nybøl Skole</item>
+<item>Nyborg Friskole</item>
+<item>Nyborg Heldagsskole</item>
+<item>Nydamskolen</item>
+<item>Uddannelsescenter Nygård - 10.Klasseskolen</item>
+<item>Ny Holte Skole</item>
+<item>Nykøbing F Realskole</item>
+<item>Nymarkskolen - Slagelse</item>
+<item>Nymarkskolen - Svendborg</item>
+<item>Nymarksskolen - Kerteminde</item>
+<item>Nyrupskolen</item>
+<item>Nordstjerneskolen - Frederikshavn</item>
+<item>Nysted Skole</item>
+<item>Nyvangsskolen</item>
+<item>Nørre Aaby Realskole</item>
+<item>Nørre Aaby Skole</item>
+<item>Oddense Skole</item>
+<item>Odder Lille Friskole</item>
+<item>Odder Ungdomsskole</item>
+<item>Odense Friskole</item>
+<item>Nordskolen - afdeling Egebjerg</item>
+<item>Øster Brønderslev Centralskole</item>
+<item>Øbro Fri Skole</item>
+<item>Ødis Skole</item>
+<item>Ødsted Skole</item>
+<item>Øster Farimagsgades Skole</item>
+<item>Oehlenschlægersgades Skole</item>
+<item>Ølgod Skole</item>
+<item>Ølsted Skole</item>
+<item>Ørebroskolen</item>
+<item>Ørestad Friskole</item>
+<item>Ørestad Skole</item>
+<item>Øresundsskolen</item>
+<item>Ørslevkloster Skole</item>
+<item>Ørstedskolen</item>
+<item>Ørum Skole - Ørum Djurs</item>
+<item>Østbirk Skole</item>
+<item>Østerbro Lilleskole</item>
+<item>Østerild Skole</item>
+<item>Østermarkskolen</item>
+<item>Øster Nykirke Skole</item>
+<item>Øster Snede Skole</item>
+<item>Øster Starup Skole</item>
+<item>Øster Uttrup skole</item>
+<item>Østervangskolen</item>
+<item>Østre Skole - Nykøbing Falster</item>
+<item>Østre Skole - Middelfart</item>
+<item>Rønneskolen, afdeling Østre</item>
+<item>Østskolen</item>
+<item>Dronninglund Efterskole</item>
+<item>Osted Fri og Efterskole</item>
+<item>Øster Hornum Skole</item>
+<item>Ordblindeinstituttet</item>
+<item>Onsild Idrætsefterskole</item>
+<item>Opholdsstedet Munkegården</item>
+<item>Ordrup Skole</item>
+<item>Ørnhøj Skole</item>
+<item>Ørum Skole - Tjele</item>
+<item>Osted Skole</item>
+<item>Østerbyskolen</item>
+<item>Østerhøjskolen</item>
+<item>Østervangsskolen</item>
+<item>Østre Skole - Thisted</item>
+<item>Otterup Realskole</item>
+<item>Outrup Skole</item>
+<item>Overlade Centralskole</item>
+<item>Overlund Skole</item>
+<item>Parkskolen - Kolding</item>
+<item>Parkskolen - Herning</item>
+<item>Parkskolen - Struer</item>
+<item>Parkvejens Skole</item>
+<item>Peder Lykke Skolen</item>
+<item>Pedersborg Skole</item>
+<item>Peder Syv Skolen</item>
+<item>Petersmindeskolen</item>
+<item>Skolen i Peter Vedels Gade</item>
+<item>Pilegårdsskolen</item>
+<item>Privatskolen i Frederikshavn</item>
+<item>Pilehaveskolen - Vallensbæk</item>
+<item>Pilehaveskolen - Assens</item>
+<item>Pindstrupskolen</item>
+<item>Præstegårdsskolen</item>
+<item>Præstelundskolen</item>
+<item>Præstemarkskolen</item>
+<item>Præstemoseskolen</item>
+<item>Privatskolen Als</item>
+<item>Privatskolen Nakskov</item>
+<item>Provstegårdskolen</item>
+<item>Paarup Skole</item>
+<item>Rækker Mølle Skolen</item>
+<item>Rævebakkeskolen</item>
+<item>Raklev Skole</item>
+<item>Randers Kristne Friskole</item>
+<item>Randers Ungdomsskole</item>
+<item>Rantzausminde Skole</item>
+<item>Ranum Skole</item>
+<item>Rask Mølle Skole</item>
+<item>Rasmus Rask-Skolen</item>
+<item>Rathlouskolen</item>
+<item>Ravnshøj Skole</item>
+<item>Ravnsholtskolen</item>
+<item>Ravsted Børneunivers</item>
+<item>Rebild Efterskole</item>
+<item>Reerslev Skole</item>
+<item>Lemtorpskolen</item>
+<item>Nr. Nissum Skole</item>
+<item>Regnbueskolen</item>
+<item>Resenbro Skole</item>
+<item>Resen Skole</item>
+<item>Randersgades Skole</item>
+<item>Rindum Kjærgaard</item>
+<item>Ringe Friskole</item>
+<item>Ringe Kost- og Realskole</item>
+<item>Ringkøbing Skole</item>
+<item>Ringsted Lilleskole</item>
+<item>Ringsted Ny Friskole</item>
+<item>Rinkenæs Efterskole</item>
+<item>Rinkenæs Skole</item>
+<item>Risbjergskolen</item>
+<item>Risingskolen</item>
+<item>Ringkøbing-Skjern Ungdomsskole</item>
+<item>Rismølleskolen</item>
+<item>Risskov Skole</item>
+<item>Roskilde Lille Skole</item>
+<item>Rådmandsgades Skole</item>
+<item>Søndre Skole - Rødby</item>
+<item>Rødkilde Skole</item>
+<item>Rødding Skole</item>
+<item>Rødkærsbro skole</item>
+<item>Rødovre Skole</item>
+<item>Rønbækskolen</item>
+<item>Rønde Privatskole</item>
+<item>Rønde Skole</item>
+<item>Rønnebæk Skole</item>
+<item>Rønne Privatskole</item>
+<item>Rørby Skole</item>
+<item>Rørkjær Skole</item>
+<item>Røsnæs Skole og Børnehus</item>
+<item>Rolf Krake Skolen</item>
+<item>Rolighedsskolen</item>
+<item>Rosendalskolen</item>
+<item>Rosengårdskolen</item>
+<item>Rosenlundskolen</item>
+<item>Rosenvængets Skole</item>
+<item>Rosenvangskolen</item>
+<item>Roser Skole</item>
+<item>Roslev Skole</item>
+<item>Rosmus Skole</item>
+<item>Rougsøskolen</item>
+<item>Roskilde Private Realskole</item>
+<item>Rungsted Private Realskole</item>
+<item>Rudolf Steiner Skolen, Skanderborg</item>
+<item>Rudolf Steiner-Skolen i Odense</item>
+<item>Rudersdal Lilleskole</item>
+<item>Rudme Friskole</item>
+<item>Ruds Vedby Skole</item>
+<item>Rugvængets Skole</item>
+<item>Rundhøjskolen</item>
+<item>Rungsted Skole</item>
+<item>Rygaards Skole</item>
+<item>Rynkevangskolen</item>
+<item>Ryomgaard Realskole</item>
+<item>Ryslinge Friskole</item>
+<item>Rytterskolen</item>
+<item>Raarup Skole</item>
+<item>Sabro-Korsvejskolen</item>
+<item>Sæbygårdskolen</item>
+<item>Sæby Skole</item>
+<item>Sædding Efterskole</item>
+<item>Særslev-Hårslev-Skolen</item>
+<item>Sankt Annæ Gymnasiums Grundskole</item>
+<item>Saksild Skole og Børnehus</item>
+<item>Sakskøbing Skole</item>
+<item>Salbrovadskolen</item>
+<item>Saltum Skole</item>
+<item>Samsøgades Skole</item>
+<item>Sanderumskolen</item>
+<item>Sankt Birgitta Skole</item>
+<item>Sankt Helene Skole</item>
+<item>Skt. Knud Lavard Skole</item>
+<item>Skt. Pauls Skole</item>
+<item>Sankt Petri Skole</item>
+<item>Sct. Albani Skole</item>
+<item>Sct Hans Skole</item>
+<item>Sct. Jacobi Skole</item>
+<item>Sct. Jørgens Skole - Holstebro</item>
+<item>Sct. Jørgens Skole - Roskilde</item>
+<item>Sct Joseph Skole</item>
+<item>Sct. Joseph Søstrenes Skole S/I</item>
+<item>Sct. Joseph Søstrenes Skole</item>
+<item>Sct. Knuds Skole</item>
+<item>Sct. Mariæ Skole</item>
+<item>Sct. Michaels Skole</item>
+<item>Sct. Nicolai Skole</item>
+<item>Sct. Norberts Skole</item>
+<item>Sdr.Bjert Centralskole</item>
+<item>Sdr Felding Centralskole</item>
+<item>Sdr Omme Skole</item>
+<item>Sdr.Stenderup Centralskole</item>
+<item>Sdr Vang Skole</item>
+<item>Sebber Skole</item>
+<item>Seden Skole</item>
+<item>Sejergaardsskolen</item>
+<item>Sejerø Skole</item>
+<item>Sejs Skole</item>
+<item>Selam Friskole</item>
+<item>Selsmoseskolen</item>
+<item>Seminarieskolen</item>
+<item>Sengeløse Skole</item>
+<item>Sennels Skole</item>
+<item>Sevel Skole</item>
+<item>Skelgårdsskolen</item>
+<item>Sæby-Hallenslev Friskole</item>
+<item>Skolen på Islands Brygge</item>
+<item>Sigerslevøster Privatskole</item>
+<item>Silkeborg Efterskole</item>
+<item>Sindal Privatskole</item>
+<item>Sindal Skole</item>
+<item>Sinding-Ørre Midtpunkt, Skolen</item>
+<item>Sportsefterskolen SINE</item>
+<item>Skolen i Ryparken</item>
+<item>Skolen i Sydhavnen</item>
+<item>Sønderborg International School</item>
+<item>Sjælsøskolen</item>
+<item>Sportsefterskolen Sjælsølund</item>
+<item>Sdr. Jernløse Lilleskole</item>
+<item>Sjølund-Hejls Skole</item>
+<item>Sjølundsskolen</item>
+<item>Sjørring Skole</item>
+<item>Sjørslev Skole</item>
+<item>Sct Jørgens Skole</item>
+<item>Skottegårdsskolen</item>
+<item>Skads Skole</item>
+<item>Skælskør Skole</item>
+<item>Skærbæk Realskole</item>
+<item>Skæring Skole</item>
+<item>Skallebølle Skole</item>
+<item>Skalmejeskolen</item>
+<item>Skals Skole</item>
+<item>Skanderborg Realskole</item>
+<item>Skansevejens Skole</item>
+<item>Skave Skole</item>
+<item>Skørbæk-Ejdrup Friskole</item>
+<item>Skelbæk Friskole</item>
+<item>Skibet Skole</item>
+<item>Skibstedskolen</item>
+<item>Skipper Clement Skolen</item>
+<item>Skjernåskolen</item>
+<item>Skjoldhøjskolen</item>
+<item>Skodborg Skole</item>
+<item>Skødstrup Skole</item>
+<item>Skørping Skole</item>
+<item>Vemmelev Skole</item>
+<item>Ramme Skole</item>
+<item>Skolecenter Jetsmark</item>
+<item>Skolegades Skole</item>
+<item>Skolen ved Bulowsvej</item>
+<item>Skolen i Midten</item>
+<item>Skolen ved Kæret</item>
+<item>Skolen ved Nordens Plads</item>
+<item>Skolen ved Skoven</item>
+<item>Skolen ved Søerne</item>
+<item>Skolen ved Tuse Næs</item>
+<item>Skovagerskolen</item>
+<item>Skovbakkeskolen</item>
+<item>Skovboskolen</item>
+<item>Skovbrynet skole</item>
+<item>Skovbyskolen</item>
+<item>Skovgårdsskolen</item>
+<item>Skovlyskolen</item>
+<item>Skovmoseskolen</item>
+<item>Skovshoved Skole</item>
+<item>Skovvangskolen - Aarhus</item>
+<item>Skovvangskolen - Allerød</item>
+<item>Skovvangskolen - Hammel</item>
+<item>Skjern Kristne Friskole</item>
+<item>Skrillingeskolen</item>
+<item>Skt Klemensskolen</item>
+<item>Skt Knuds Skole</item>
+<item>Skt. Nikolaj Skole</item>
+<item>Struer Kommunale Ungdomsskole</item>
+<item>Skuldelev Skole</item>
+<item>Skåde Skole</item>
+<item>Sletten Skole</item>
+<item>Heldagsskolen i Slimminge</item>
+<item>Tølløse Slots Efterskole</item>
+<item>Smidstrup-Skærup Skole</item>
+<item>Snedsted Skole</item>
+<item>Snejbjerg Skole</item>
+<item>Snekkersten Skoledistrikt</item>
+<item>Sdr. Nærå Friskole og Midtfyns Efterskole</item>
+<item>Sødalskolen - Tjele</item>
+<item>Søbæk Skole</item>
+<item>Søborg Skole</item>
+<item>Sødalskolen - Brabrand</item>
+<item>Søgården</item>
+<item>Søgård Friskole</item>
+<item>Søgårdsskolen</item>
+<item>Søholmskolen</item>
+<item>Søhusskolen</item>
+<item>Sølvgades Skole</item>
+<item>Nordvestskolen, Søllested afdeling</item>
+<item>Skolen på Sønderager</item>
+<item>Sønderbro Skole</item>
+<item>Sønderbroskolen</item>
+<item>Sønderholm Skole</item>
+<item>Sønderlandsskolen</item>
+<item>Søndermarksskolen - Vejle</item>
+<item>Sønderrisskolen</item>
+<item>Sønderskov-Skolen</item>
+<item>Søndersøskolen - Værløse</item>
+<item>Søndervangskolen - Viby J</item>
+<item>Søndervangskolen - Hammel</item>
+<item>Søndre Skole</item>
+<item>Grindsted Søndre Skole</item>
+<item>Søvind Skole</item>
+<item>Sofielundskolen</item>
+<item>Sofiendalskolen</item>
+<item>Solbakkeskolen</item>
+<item>Solbjergskolen</item>
+<item>Solhverv Privatskole</item>
+<item>Solsideskolen</item>
+<item>Solvangskolen</item>
+<item>Søndermarkskolen - Frederiksberg</item>
+<item>Søndermarksskolen</item>
+<item>Søndersøskolen - Søndersø</item>
+<item>Sophienborgskolen</item>
+<item>Sorgenfriskolen</item>
+<item>Smilehullet</item>
+<item>Sorring Skole</item>
+<item>Sortebakkeskolen</item>
+<item>Sortedamskolen</item>
+<item>Spangsbjergskolen</item>
+<item>Sparkær Skole</item>
+<item>Specialcenter Sigrid Undset</item>
+<item>Spjald Skole</item>
+<item>Spor 10</item>
+<item>Sorø Privatskole</item>
+<item>Skolen på Strandboulevarden</item>
+<item>Søborg Privatskole</item>
+<item>Sjællands Privatskole</item>
+<item>Spurvelundskolen</item>
+<item>Staby Skole</item>
+<item>Stauning Skole</item>
+<item>Stavnsholtskolen</item>
+<item>Rudolf Steiner skolen Kvistgård</item>
+<item>Stenderup Skole - Grindsted</item>
+<item>Stenderup Skole - Stenderup</item>
+<item>Stengård Skole</item>
+<item>Stengårdsskolen</item>
+<item>Stenhus Kostskole</item>
+<item>Stenoskolen</item>
+<item>Stenløse Privatskole</item>
+<item>Stensagerskolen</item>
+<item>Stensballeskolen</item>
+<item>Stensnæsskolen</item>
+<item>Stevns Friskole</item>
+<item>Stige Friskole</item>
+<item>Stige Skole</item>
+<item>Stillinge Skole</item>
+<item>Stilling Skole</item>
+<item>Stjærskolen</item>
+<item>Stjernevejskolen</item>
+<item>Stoholm Skole</item>
+<item>Stolpedalsskolen</item>
+<item>Store Andst Efterskole</item>
+<item>Storebæltskolen</item>
+<item>Store Dyrehave Skole</item>
+<item>Store Heddinge Skole</item>
+<item>Storåskolen</item>
+<item>Stouby Skole</item>
+<item>Strandby Skole - Strandby</item>
+<item>Strandby Skole - Farsø</item>
+<item>Strandgårdskolen</item>
+<item>Strandparkskolen</item>
+<item>Strandskolen - Risskov</item>
+<item>Strandskolen - Karlslunde</item>
+<item>Strandvejsskolen</item>
+<item>Strib Skole</item>
+<item>Strøbyskolen</item>
+<item>Struer Østre Skole</item>
+<item>Stubbæk Skole</item>
+<item>Stubbekøbing Efterskole</item>
+<item>Stubbekøbing Skole</item>
+<item>Studsgård Friskole</item>
+<item>Suldrup Skole</item>
+<item>Sulsted Skole</item>
+<item>Sundbyøster Skole</item>
+<item>Fænøsund Friskole</item>
+<item>SUNDskolen</item>
+<item>Sunds Skole</item>
+<item>Susålandets Skole</item>
+<item>Sværdborg Friskole</item>
+<item>Svanninge Skole</item>
+<item>Svebølle Skole</item>
+<item>Svend Gønge-skolen</item>
+<item>Svenstrup Skole</item>
+<item>Sdr. Vium Friskole</item>
+<item>Svindinge Friskole</item>
+<item>Sydvestmors Friskole</item>
+<item>Skolen ved Stadion</item>
+<item>Skolen ved Sundet</item>
+<item>Sydbornholms Privatskole</item>
+<item>Sydbyskolen</item>
+<item>Sydfalster Skole</item>
+<item>Sydkystens Privatskole</item>
+<item>Sydskolen</item>
+<item>Skolen på Børne- og Ungdomspsykiatrisk Center</item>
+<item>Syvstjerneskolen</item>
+<item>Tallerupskolen</item>
+<item>Taps Skole</item>
+<item>Tarm Skole</item>
+<item>Tarup Skole</item>
+<item>TCR TiendeklasseCenter Roskilde</item>
+<item>Tove Ditlevsens Skole</item>
+<item>Terndrup Skole</item>
+<item>Tømmerup Fri- og Efterskole</item>
+<item>Specialskolen Tårnbygård</item>
+<item>Tagensbo Skole</item>
+<item>Th. Langs Skole</item>
+<item>Thomasskolen</item>
+<item>Thorning Skole</item>
+<item>Thorsager Skole</item>
+<item>Thurø Skole</item>
+<item>Thyborøn Skole</item>
+<item>Thyholm Skole</item>
+<item>Thyregod Skole</item>
+<item>10. Klasse Center Skive</item>
+<item>Tikøb Skole</item>
+<item>Tilsted Skole</item>
+<item>Tilst Skole</item>
+<item>Timring Skole</item>
+<item>Tim Skole</item>
+<item>Tinderhøj Skole</item>
+<item>Tingagerskolen</item>
+<item>Tingbjerg Heldagsskole</item>
+<item>Tingkærskolen</item>
+<item>Tinglev Skole</item>
+<item>Tingløkkeskolen</item>
+<item>Tingstrup Skole</item>
+<item>Skolen ved Tippen</item>
+<item>Tirsdalens Skole</item>
+<item>Tirstrup Idrætsefterskole</item>
+<item>Tjæreborg Skole</item>
+<item>Tjørnegårdsskolen</item>
+<item>Tjørnelyskolen</item>
+<item>Tjørring Skole</item>
+<item>Tjørnegårdskolen</item>
+<item>Tømmerup Skole</item>
+<item>Tørring Skole</item>
+<item>Toftegårdsskolen - Jerslev J</item>
+<item>Toftegårdsskolen - Faaborg</item>
+<item>Toftehøjskolen</item>
+<item>Tofthøjskolen</item>
+<item>Tolne Efterskole</item>
+<item>Tommerup Skole</item>
+<item>Toftevangskolen</item>
+<item>Toppedalskolen</item>
+<item>Familieinstitutionen Topshøj</item>
+<item>Tornhøjskolen</item>
+<item>Tornvedskolen</item>
+<item>Torslev Skole</item>
+<item>Torstedskolen</item>
+<item>Torstorp Skole</item>
+<item>Toubroskolen</item>
+<item>Tovshøjskolen</item>
+<item>Tølløse Privat- og Efterskole, Baptisternes Skoler</item>
+<item>Trællerupskolen</item>
+<item>Tranbjergskolen</item>
+<item>Trekronergade Freinetskole</item>
+<item>Trekronerskolen - Roskilde</item>
+<item>Trørødskolen</item>
+<item>Trongårdsskolen</item>
+<item>Try Efterskole</item>
+<item>Tønning-Træden Friskole</item>
+<item>Tune Skole</item>
+<item>Tungelundskolen</item>
+<item>Taastrup Ungdomsskole</item>
+<item>Tversted undervisningssted</item>
+<item>Tvis Skole</item>
+<item>Tybjerg Privatskole</item>
+<item>Tylstrup Skole</item>
+<item>Taarbæk Skole</item>
+<item>Tårnborg Skole</item>
+<item>Tårs skolecenter</item>
+<item>Taastrup Realskole</item>
+<item>Ubberud Skole</item>
+<item>Friskolen og Idrætsefterskolen Ubby</item>
+<item>Ungdomscenteret i Glostrup</item>
+<item>Udefriskolen</item>
+<item>Ugelbølle Friskole</item>
+<item>Uglegårdsskolen</item>
+<item>Uhre Friskole</item>
+<item>Ulbjerg Skole</item>
+<item>Uldum Skole</item>
+<item>Ulfborg Skole</item>
+<item>Ulkebøl Skole</item>
+<item>Ullerødskolen</item>
+<item>Ullerup Bæk Skolen</item>
+<item>Ullits Skole</item>
+<item>Ulsted Skole</item>
+<item>Ulstrup Efterskole</item>
+<item>Ulstrup Skole</item>
+<item>Ungecenter2610</item>
+<item>UngAalborg Uddannelsescenter</item>
+<item>10. klasseskolen - Hillerød</item>
+<item>Ringsted Komm. Ungdomsskole</item>
+<item>Unge2-projektet</item>
+<item>Herning Ungdomsskole</item>
+<item>Ungdomsskolen Kolding</item>
+<item>Ungnorddjurs</item>
+<item>Tårnby Ungdomsskole</item>
+<item>Utterslev Skole</item>
+<item>Vadehavsskolen</item>
+<item>Vadgård Skole</item>
+<item>Vadum Skole</item>
+<item>Det Kgl Vaisenhus Skole</item>
+<item>Valby Skole</item>
+<item>Valdemarskolen</item>
+<item>Vallensbæk Skole</item>
+<item>Vallerødskolen</item>
+<item>Valsgaard Skole</item>
+<item>Vamdrup Skole</item>
+<item>Vanløse Skole</item>
+<item>Vangeboskolen</item>
+<item>Vanløse Privatskole</item>
+<item>Starup Skole</item>
+<item>Varnæs Skole</item>
+<item>Vigerslev Alles Skole</item>
+<item>Vestre Skole - Viborg</item>
+<item>Vedbæk Skole</item>
+<item>Vejen friskole</item>
+<item>Vejgaard Østre Skole</item>
+<item>Vejlebroskolen</item>
+<item>Vejle Friskole</item>
+<item>Vejle Midtbyskole</item>
+<item>Vejrup Skole</item>
+<item>Veksø Skole</item>
+<item>Vemmedrupskolen</item>
+<item>Veng Skole</item>
+<item>Venø Efterskole</item>
+<item>Verninge Skole</item>
+<item>Vestbjerg Skole</item>
+<item>Vestegnens Privatskole</item>
+<item>Vesterbakkeskolen</item>
+<item>Vesterbro Ny Skole</item>
+<item>Vestergårdsskolen</item>
+<item>Vester Hassing Skole</item>
+<item>Vester Hornum Skole</item>
+<item>Vesterkærets Skole</item>
+<item>Vestermarkskolen Aars</item>
+<item>Vestermarkskolen</item>
+<item>Vester Nebel Skole</item>
+<item>Vestervang Skole</item>
+<item>Vestervangskolen</item>
+<item>Vestervangsskolen</item>
+<item>Vestervig Skole</item>
+<item>Bøgebjergskolen</item>
+<item>Vestfjendsskolen</item>
+<item>Vestre Skole - Silkeborg</item>
+<item>Vestre Skole - Odense</item>
+<item>Vestre Skole - Svendborg</item>
+<item>Grindsted Vestre Skole</item>
+<item>Vestre Skole - Middelfart</item>
+<item>Vestrup Skole</item>
+<item>Vestskolen</item>
+<item>Vivild Gymnastik og Idrætsefterskole</item>
+<item>Vinde Helsinge Friskole</item>
+<item>Vibeskolen</item>
+<item>Viborg Private Realskole</item>
+<item>Viborg Komm. Ungdomsskole</item>
+<item>Viby Friskole</item>
+<item>Viby Skole</item>
+<item>Videbæk Skole</item>
+<item>Vigersted Skole</item>
+<item>Vildbjerg Skole</item>
+<item>Vindblæs Friskole</item>
+<item>Vinderslev Skole</item>
+<item>Vinderup Realskole</item>
+<item>Vinderup Skole</item>
+<item>Vindinge Skole</item>
+<item>Vinding Skole - Vejle</item>
+<item>Vinding Skole - Sørvad</item>
+<item>Kulsbjerg Skole, Nyråd</item>
+<item>Virklund Skole</item>
+<item>Virring Skole</item>
+<item>Virum Skole</item>
+<item>Virupskolen</item>
+<item>Vissenbjerg Skole</item>
+<item>Vitaskolen</item>
+<item>Vittenbergskolen</item>
+<item>Nr. Vium-Troldhede Skole</item>
+<item>Videbæk Kristne Friskole</item>
+<item>Vester Mariendal Skole</item>
+<item>Vestbirk Musik og Sportsefterskole</item>
+<item>Vodskov Skole</item>
+<item>Voel Skole</item>
+<item>Voerladegård Skole</item>
+<item>Vokslev Friskole</item>
+<item>Vonsild Skole</item>
+<item>Vorbasse Skole</item>
+<item>Øster Åby Friskole</item>
+<item>Vor Frue Skole - Roskilde</item>
+<item>Vor Frue Skole - Næstved</item>
+<item>Vorgod-Barde Skole</item>
+<item>Vorrevangskolen</item>
+<item>Vorup Skole</item>
+<item>Vrigsted Efterskole</item>
+<item>Vester Skerninge Friskole</item>
+<item>Vaarst-Fjellerad Skole</item>
+<item>Efterskolen Waldemarsbo</item>
+<item>Xclass. 10. Klasse-centret i Slagelse</item>
+<item>N. Zahles Seminarieskole</item>
+<item>Aabæk Efterskole</item>
+<item>Åbenrå Friskole</item>
+<item>Aabybro Skole</item>
+<item>Åby Skole</item>
+<item>Ådalskolen - Fangel friskole</item>
+<item>Ådalens Skole</item>
+<item>Ådalens Privatskole</item>
+<item>Ådalskolen - Ringsted</item>
+<item>Ådalskolen - Esbjerg</item>
+<item>Ådalskolen - Skive</item>
+<item>Ådalsskolen - Mørke</item>
+<item>Ådum Børneunivers</item>
+<item>Ågård Efterskole</item>
+<item>Aakjærskolen</item>
+<item>Aalbæk Skole</item>
+<item>Ålestrup Realskole</item>
+<item>Ålholm Skole</item>
+<item>Åløkkeskolen</item>
+<item>Aalykkeskolen</item>
+<item>Årby Skole</item>
+<item>Århus Privatskole</item>
+<item>Årre Skole</item>
+<item>Aars Skole</item>
+<item>Aarupskolen</item>
+	</string-array>
+	
+</resources>

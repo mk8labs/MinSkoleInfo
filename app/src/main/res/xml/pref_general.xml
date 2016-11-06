@@ -1,0 +1,48 @@
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+
+ <!--     <ListPreference 
+        android:key="baseurl"
+        android:entries="@array/school_name" 
+        android:entryValues="@array/school_url"
+        android:title="@string/pref_baseurl" 
+        />
+  -->
+
+       <EditTextPreference
+        android:inputType="text"
+        android:key="baseurl"
+        android:maxLines="1"
+        android:selectAllOnFocus="true"
+        android:singleLine="true"
+        android:title="@string/pref_baseurl" />
+  
+      
+       <EditTextPreference
+        android:inputType="text"
+        android:key="userid"
+        android:maxLines="1"
+        android:selectAllOnFocus="true"
+        android:singleLine="true"
+        android:title="@string/pref_userid" />
+    
+    
+    <EditTextPreference
+        android:inputType="textPassword"
+        android:key="password"
+        android:maxLines="1"
+        android:selectAllOnFocus="true"
+        android:singleLine="true"
+        android:title="@string/pref_password" />
+    
+    <ListPreference 
+        android:key="auto_load_hour"
+        android:entries="@array/pref_hours" 
+        android:entryValues="@array/pref_hours_values"
+        android:title="@string/pref_hour" 
+        android:defaultValue="-1"/>
+    
+    <Preference 
+        android:key="refresh_student_list" 
+        android:title="Indlæs elevliste fra intra"/>
+ 
+</PreferenceScreen>

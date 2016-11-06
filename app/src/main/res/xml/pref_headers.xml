@@ -1,0 +1,22 @@
+<preference-headers xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <header
+        android:fragment="com.mk8labs.minskoleinfo.SettingsActivity$GeneralPreferenceFragment"
+        android:title="@string/pref_header_general" />
+    <header
+        android:fragment="com.mk8labs.minskoleinfo.SettingsActivity$ScheduleToCalendarPreferenceFragment"
+        android:title="@string/pref_header_ScheduleToCalendar" />
+
+    <header
+        android:fragment="com.mk8labs.minskoleinfo.SettingsActivity$HomeworkToCalendarPreferenceFragment"
+        android:title="@string/pref_header_HomeworkToCalendar" />
+
+	<header
+        android:fragment="com.mk8labs.minskoleinfo.SettingsActivity$ClassPreferenceFragment"
+        android:title="@string/pref_header_class" />
+    
+	<header
+        android:fragment="com.mk8labs.minskoleinfo.SettingsActivity$TeacherPreferenceFragment"
+        android:title="@string/pref_header_teacher" />
+	
+</preference-headers>

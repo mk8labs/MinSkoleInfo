@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.mk8labs.minskoleinfo">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.READ_CALENDAR" />
+    <uses-permission android:name="android.permission.WRITE_CALENDAR" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        android:name="com.mk8labs.minskoleinfo.MSIApplication"
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="com.mk8labs.minskoleinfo.MainActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.mk8labs.minskoleinfo.SettingsActivity"
+            android:label="@string/title_activity_settings"
+            android:parentActivityName="com.mk8labs.minskoleinfo.MainActivity" >
+        </activity>
+
+        <service
+            android:name="com.mk8labs.minskoleinfo.scheduler.LoaderService"
+            android:enabled="true"
+            android:exported="true" >
+        </service>
+
+        <receiver android:name="com.mk8labs.minskoleinfo.scheduler.LoaderServiceReceiver" >
+            <intent-filter>
+                <action android:name="android.intent.action.BOOT_COMPLETED" />
+            </intent-filter>
+        </receiver>
+
+        <activity
+            android:name="com.mk8labs.minskoleinfo.AboutActivity"
+            android:label="@string/title_activity_about"
+            android:parentActivityName="com.mk8labs.minskoleinfo.MainActivity" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.mk8labs.minskoleinfo.MainActivity" />
+        </activity>
+
+    </application>
+
+</manifest>

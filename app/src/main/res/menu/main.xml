@@ -1,0 +1,24 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.mk8labs.minskoleinfo.Preferences" >
+
+     <item
+        android:id="@+id/action_update"
+        android:orderInCategory="80"
+        android:showAsAction="ifRoom"
+        android:icon="@drawable/navigation_refresh"
+        android:title="@string/action_update"/>
+    
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="100"
+        android:showAsAction="ifRoom"
+        android:icon="@drawable/action_settings"
+        android:title="@string/action_settings"/>
+<item
+        android:id="@+id/action_about"
+        android:orderInCategory="120"
+        android:showAsAction="ifRoom"
+        android:title="@string/action_settings" 
+        android:icon="@drawable/action_about"/>
+</menu>
