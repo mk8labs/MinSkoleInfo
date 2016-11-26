@@ -15,21 +15,21 @@ import com.mk8labs.minskoleinfo.PrefsMgr;
 import com.mk8labs.minskoleinfo.calendar.CalendarEvent;
 import com.mk8labs.minskoleinfo.calendar.CalendarHelper;
 
-public class SkemaLoader {
+class SkemaLoader {
 
-	private final static String SKEMAPAGECONTENT = "schedules/schedule";
+	private final static String SKEMAPAGECONTENT = "calendar/schedule";
 
 	private SkemaParser skemaParser = new SkemaParser();
 	private Context ctx;
 	private EventNotifier notif;
 	
-	public SkemaLoader(final Context ctx, EventNotifier notif) {
+	SkemaLoader(final Context ctx, EventNotifier notif) {
 		this.ctx=ctx;
 		this.notif=notif;
 	}
 	
 	@SuppressLint("SimpleDateFormat")
-	protected void load() {
+	void load() {
 
 		// get students
 		Set<String> studentlist = PrefsMgr.getStudentList(ctx);
